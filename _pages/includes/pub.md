@@ -1,9 +1,9 @@
 # 📝 Publications 
-- ``WWW 2025`` [LLGformer: Learnable Long-range Graph Transformer for Traffic Flow Prediction], Di Jin, **Cuiying Huo***, Jiayi Shi, Dongxiao He*, Jianguo Wei, Philip S. Yu. (CCF A类会议长文)
+- ``WWW 2025`` [LLGformer: Learnable Long-range Graph Transformer for Traffic Flow Prediction], Di Jin, **Cuiying Huo***， Jiayi Shi, Dongxiao He*, Jianguo Wei, Philip S. Yu. (CCF A类会议长文)
 - ``AAAI 2025`` [Feature-Structure Adaptive Completion Graph Neural Network for Cold-start Recommendation], Songyuan Lei, Xinglong Chang, Zhizhi Yu, Dongxiao He, **Cuiying Huo**, Jianrong Wang, Di Jin. (CCF A类会议长文)
 - ``TNNLS 2024`` [TrustGNN: Graph Neural Network based Trust Evaluation via Learnable Propagative and Composable Nature], **Cuiying Huo**, Dongxiao He, Chundong Liang, Di Jin, Tie Qiu, Lingfei Wu. (SCI一区期刊)
 - ``TIST 2024`` [Heterogeneous Graph Neural Networks using Self-supervised Reciprocally Contrastive Learning], **Cuiying Huo**, Dongxiao He, Yawen Li, Di Jin, Jianwu Dang, Witold Pedrycz, Lingfei Wu, Weixiong Zhang. (JCR Q1)
-- ``TOIS`` [PEPT: Expert Finding Meets Personalized Pre-training], Qiyao Peng, Hongyan Xu, Yinghui Wang, Hongtao Liu, **Cuiying Huo**, Wenjun Wang. (CCF A类期刊)
+- ``TOIS 2024`` [PEPT: Expert Finding Meets Personalized Pre-training], Qiyao Peng, Hongyan Xu, Yinghui Wang, Hongtao Liu, **Cuiying Huo**, Wenjun Wang. (CCF A类期刊)
 - ``IJCAI 2024`` [Graph collaborative expert finding with contrastive learning], Qiyao Peng, Wenjun Wang, Hongtao Liu, **Cuiying Huo**, Minglai Shao. (CCF A类会议长文)
 - ``AAAI 2024`` [A New Mechanism for Eliminating Implicit Conflict in Graph Contrastive Learning], Dongxiao He, Jitao Zhao, **Cuiying Huo***, Yongqi Huang, Yuxiao Huang, Zhiyong Feng*. (CCF A类会议长文)
 - ``World Wide Web 2024`` [Bridging Distribution Gaps: Invariant Pattern Discovery for Dynamic Graph Learning], Yucheng Jin, Maoyi Wang, Yun Xiong, Zhizhou Ren, **Cuiying Huo**, Feng Zhu, Jiawei Zhang, Guangzhong Wang, Haoran Chen. (CCF B类期刊)
