@@ -11,5 +11,5 @@
 - ``WWW 2023`` [KGTrust: Evaluating Trustworthiness of SIoT via Knowledge Enhanced Graph Neural Networks], Zhizhi Yu, Di Jin, **Cuiying Huo**, Zhiqiang Wang, Xiulong Liu, Heng Qi, Jia Wu, Lingfei Wu. (CCF A类会议长文)
 - ``KSEM 2023`` [Local-Global Fusion Augmented Graph Contrastive Learning Based on Generative Models], Di Jin, Zhiqiang Wang, **Cuiying Huo**, Zhizhi Yu, Dongxiao He, Yuxiao Huang. (CCF C类会议长文)
 -  ``TNNLS 2022`` [Analyzing Heterogeneous Networks with Missing Attributes by Unsupervised Contrastive Learning], Dongxiao He, Chundong Liang, **Cuiying Huo**, Zhiyong Feng, Di Jin, Liang Yang, Weixiong Zhang. (SCI一区期刊)
--  ``WWW 2021`` [Heterogeneous Graph Neural Network via Attribute Completion](), Di Jin, **Cuiying Huo**, Chundong Liang, Liang Yang. (CCF A类会议长文, Best Paper Award Runner-Up)
+-  ``WWW 2021`` [Heterogeneous Graph Neural Network via Attribute Completion], Di Jin, **Cuiying Huo**, Chundong Liang, Liang Yang. (CCF A类会议长文, Best Paper Award Runner-Up)
 -  ``NeurIPS 2021`` [Universal Graph Convolutional Networks], Di Jin, Zhizhi Yu, **Cuiying Huo**, Rui Wang, Xiao Wang, Dongxiao He, Jiawei Han. (CCF A 类会议长文)
