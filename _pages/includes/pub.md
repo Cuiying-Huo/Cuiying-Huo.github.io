@@ -1,5 +1,5 @@
 # 📝 Publications 
-- ``WWW 2026`` [LLGformer: Learnable Long-range Graph Transformer for Traffic Flow Prediction](), Di Jin, Yixuan Du, <b>Cuiying Huo#(Corresponding Author)</b>, Xiaotong Huang, Ruqiong Zhang, Xiaobao Wang, Yawen Li. (CCF A类会议长文)
+- ``WWW 2026`` [IVQ-GNN: Mitigating Performance Gap from Graph Connection Pattern Inconsistency via Vector Quantization](), Di Jin, Yixuan Du, <b>Cuiying Huo#(Corresponding Author)</b>, Xiaotong Huang, Ruqiong Zhang, Xiaobao Wang, Yawen Li. (CCF A类会议长文)
 - ``AAAI 2026`` [DuoKD: Dual Knowledge Distillation from Large Language Models for Robust Graph Neural Networks](), **Cuiying Huo**, Xiaotong Huang, Dongxiao He, Yixuan Du, Wenhuan Lu, Di Jin. (CCF A类会议长文, Oral)
 - ``TKDE 2025`` [Distill & Contrast: A New Graph Self-Supervised Method with Approximating Nature Data Relationships](https://ieeexplore.ieee.org/abstract/document/10938656), Dongxiao He, Jitao Zhao, Rui Guo, Zhiyong Feng, **Cuiying Huo**, Di Jin, Witold Pedrycz, Weixiong Zhang. (CCF A类期刊长文)
 - ``WWW 2025`` [LLGformer: Learnable Long-range Graph Transformer for Traffic Flow Prediction](https://openreview.net/forum?id=7VjR70sxti), Di Jin, <b>Cuiying Huo#(Corresponding Author)</b>, Jiayi Shi, Dongxiao He#,Jianguo Wei, Philip S. Yu. (CCF A类会议长文)
